@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Reverse Notes
+---
+
 # IDA 查看伪代码
 
 ```cpp
