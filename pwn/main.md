@@ -1,9 +1,7 @@
-
 ---
 layout: default
-title: Reverse Notes
+title: pwn Notes
 ---
-
 # IDA 查看伪代码
 
 ```cpp
