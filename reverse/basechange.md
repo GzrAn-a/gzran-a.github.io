@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reverse Notes
+permalink: /reverse
 ---
 
 # Base64 换表 
