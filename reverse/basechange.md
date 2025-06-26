@@ -1,3 +1,8 @@
+---
+layout: default
+title: Reverse Notes
+---
+
 # Base64 换表 
 ### [BUGKU 题目连接](https://ctf.bugku.com/challenges/detail/id/153.html)
 
